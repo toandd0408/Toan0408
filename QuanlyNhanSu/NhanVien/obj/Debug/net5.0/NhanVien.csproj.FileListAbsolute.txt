@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\obj\Debug\net5.0\NhanVien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\obj\Debug\net5.0\NhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\obj\Debug\net5.0\NhanVien.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\obj\Debug\net5.0\NhanVien.AssemblyInfo.cs
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\obj\Debug\net5.0\NhanVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\bin\Debug\net5.0\NhanVien.deps.json
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\bin\Debug\net5.0\NhanVien.dll
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\bin\Debug\net5.0\NhanVien.pdb
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\obj\Debug\net5.0\NhanVien.dll
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\obj\Debug\net5.0\refint\NhanVien.dll
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\obj\Debug\net5.0\NhanVien.pdb
+C:\Users\Admin\source\repos\QuanlyNhanSu\NhanVien\obj\Debug\net5.0\ref\NhanVien.dll
